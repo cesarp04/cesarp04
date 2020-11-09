@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find me:
+You can find me🌎:
 - [Twitter](https://twitter.com/cesarp04)
 - [Linkedin](https://www.linkedin.com/in/caps2695)
 
