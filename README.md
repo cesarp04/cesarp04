@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Twitter: Cesar Puentes](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/cesarp04)
+[![Linkedin: Cesar Puentes](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/caps2695)
+[![GitHub Cesar Puentes](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/cesarp04)
+
 <!--
 **cesarp04/cesarp04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
