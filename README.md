@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱I’m currently learning AngularJs, React, Ionic
+
 You can find me🌎:
 - [Twitter](https://twitter.com/cesarp04)
 - [Linkedin](https://www.linkedin.com/in/caps2695)
