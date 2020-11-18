@@ -6,7 +6,8 @@ You can find me🌎:
 - [Twitter](https://twitter.com/cesarp04)
 - [Linkedin](https://www.linkedin.com/in/caps2695)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
 
