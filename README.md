@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
 ### Hi there 👋, I'm [Cesar Puentes!](https://github.com/cesarp04/)
 
 - 🌱I’m currently learning AngularJs, React, Ionic
@@ -8,8 +9,6 @@ You can find me🌎:
 
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
 
 <!--[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarp04)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarp04&hide=contribs,prs)
