@@ -11,10 +11,6 @@
 <a href="https://www.linkedin.com/in/caps2695/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<!--- <a href="https://www.facebook.com/Cargdevv/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
- </a>
-
 
 - 🌱I’m currently learning AngularJs, React, Ionic
 
@@ -23,6 +19,11 @@ You can find me🌎:
 - [Linkedin](https://www.linkedin.com/in/caps2695)
 
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&theme=radical)
+
+<!--- <a href="https://www.facebook.com/Cargdevv/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+ </a>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarp04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarp04)](https://github.com/anuraghazra/github-readme-stats)
