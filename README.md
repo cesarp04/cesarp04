@@ -14,7 +14,7 @@
 
 ## 
 
-- 🌱I’m currently learning AngularJs, React, Ionic
+- 🌱I’m currently learning AngularJs, React, NodeJs 
 
 ![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=cesarp04&count_private=true&show_icons=true&hide_border=true&title_color=B6e443&icon_color=46c7e7&bg_color=0B0B2A&text_color=C2C1CE)
 
