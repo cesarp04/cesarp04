@@ -1,6 +1,6 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
-### Hi there 👋, I'm [Cesar Puentes!](https://github.com/cesarp04/)
+## Hi my name is [Cesar Puentes!](https://github.com/cesarp04/)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
 
 <a href="https://platzi.com/p/cesarp04/">
     <img width="72" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
