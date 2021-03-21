@@ -1,4 +1,4 @@
-## Hi my name is [Cesar Puentes!](https://www.linkedin.com/in/cesarp04/)
+## Hola! Soy [Cesar Puentes!](https://www.linkedin.com/in/cesarp04/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
 
@@ -12,7 +12,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 
+## Quien soy?
+
+<p>
+  Soy Tecnolog en informatica especializado en tecnologías Web, tales como HTML – CSS,
+JavaScript, React y Angular. 
+</p>
+    
 
 - 🌱I’m currently learning AngularJs, React, NodeJs 
 
