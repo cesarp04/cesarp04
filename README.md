@@ -1,4 +1,4 @@
-## Hi my name is [Cesar Puentes!](https://github.com/cesarp04/)
+## Hi my name is [Cesar Puentes!](https://www.linkedin.com/in/cesarp04/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cesarp04.cesarp04)
 
