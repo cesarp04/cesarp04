@@ -27,6 +27,7 @@ JavaScript, React, Angular y NodeJs.
 
 <h2>Technologias usadas</h2>
 
+- Docker
 - React
 - Redux
 - Angular
