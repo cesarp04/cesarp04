@@ -33,11 +33,8 @@ JavaScript, React, Angular y NodeJs.
 - Angular
 - Node.js
 - JavaScript
-- MySql
-- PostgreSQL
 - Linux
-- MongoDB
-- Sequelize
+
 
 <!---
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
