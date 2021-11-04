@@ -10,6 +10,7 @@
  
 👨🏽‍💻 As developer i had worked with (and more):
 
+<br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,6 +22,7 @@
 
 ## How to reach me
 
+<br>
 <p align='center'>
     <a href="https://platzi.com/p/cesarp04/">
         <img width="72" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
