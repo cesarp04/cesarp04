@@ -4,9 +4,9 @@
 
 📫 How to reach me: caps2695@gmail.com
   
-😎 I'm worked in technology for more than 1 years.
+😎 I'm worked in technology for more than 1 year.
  
-🌱 I’m currently learning  in Platzi Master.
+🌱 I’m currently learning in Platzi Master.
  
 👨🏽‍💻 As developer i had worked with (and more):
 
@@ -27,7 +27,7 @@
     <a href="https://platzi.com/p/cesarp04/">
         <img width="72" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
     </a>
-    <a href="https://www.linkedin.com/in/caps2695/">
+    <a href="https://www.linkedin.com/in/cesarp04/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://twitter.com/cesarp04">
@@ -35,14 +35,13 @@
     </a>
 </p>  
 
-## Stats
+## Stats 
 
 ![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=cesarp04&count_private=true&show_icons=true&theme=dark)
 
 ## 👨‍💻 This week, I spent my time on:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cesarp04&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!---
